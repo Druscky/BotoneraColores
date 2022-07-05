@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BotonesCanva</string>
+    <string name="btnA">Botón A</string>
+    <string name="btnB">Botón B</string>
+    <string name="btnC">Botón C</string>
+    <string name="btnD">Botón D</string>
+    <string name="btnGO">GO</string>
+    <string name="green">#FF2AF598</string>
+    <string name="blue">#FF009EFD</string>
+    <string name="pink">#FFFA71CD</string>
+    <string name="purple">#FFBF66F9</string>
+
+</resources>
