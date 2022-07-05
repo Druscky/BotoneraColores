@@ -9,5 +9,7 @@
     <string name="blue">#FF009EFD</string>
     <string name="pink">#FFFA71CD</string>
     <string name="purple">#FFBF66F9</string>
+    <string name="btnGradient">GRADIENT</string>
+
 
 </resources>
