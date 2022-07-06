@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/akaya_telivigala</item>
+        <item>@font/akronim</item>
+        <item>@font/andika_new_basic_bold</item>
+        <item>@font/annie_use_your_telescope</item>
+        <item>@font/bangers</item>
+        <item>@font/barriecito</item>
+        <item>@font/beth_ellen</item>
+        <item>@font/boogaloo</item>
+    </array>
+</resources>

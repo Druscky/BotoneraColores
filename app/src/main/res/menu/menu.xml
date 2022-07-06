@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/meBotones"
+        android:icon="@drawable/ic_baseline_radio_button_checked_24"
+        android:title="@string/meBotones" />
+    <item
+        android:id="@+id/meSelector"
+        android:icon="@drawable/ic_select"
+        android:title="@string/meSelector" />
+    <item
+        android:id="@+id/meCardView"
+        android:icon="@drawable/ic_cardview"
+        android:title="@string/meCardView" />
+</menu>

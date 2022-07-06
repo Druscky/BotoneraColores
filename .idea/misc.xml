@@ -3,13 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/drawable/btn_selector.xml" value="0.3295" />
+        <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/drawable/btn_sweep.xml" value="0.225" />
+        <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/drawable/button_disabled.xml" value="0.3295" />
+        <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/drawable/button_not_pressed.xml" value="0.3295" />
+        <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/drawable/button_pressed.xml" value="0.3295" />
         <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/drawable/cuartoboton.xml" value="0.3665" />
+        <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/drawable/layer_list.xml" value="0.3295" />
         <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/drawable/primerboton.xml" value="0.3675" />
         <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/drawable/quintoboton.xml" value="0.3665" />
         <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/drawable/segundoboton.xml" value="0.3665" />
         <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/drawable/sextoboton.xml" value="0.2855" />
         <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/drawable/tercerboton.xml" value="0.3665" />
+        <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/drawable/thumb.xml" value="0.225" />
         <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/layout/activity_seek_bar.xml" value="0.30097087378640774" />
+        <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/layout/activity_selector.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/layout/fragment_botones.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/layout/fragment_card_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/layout/fragment_selector.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProject/BotonesCanva/app/src/main/res/menu/menu.xml" value="0.365625" />
       </map>
     </option>
   </component>

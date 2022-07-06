@@ -9,7 +9,19 @@
     <string name="blue">#FF009EFD</string>
     <string name="pink">#FFFA71CD</string>
     <string name="purple">#FFBF66F9</string>
-    <string name="btnGradient">GRADIENT</string>
+    <string name="btnGradientRadial">RADIAL</string>
+    <string name="btnGradientSweep">SWEEP</string>
+    <string name="btnNotPressed">NOT PRESSED</string>
+    <string name="btnPressed">PRESSED</string>
+    <string name="btnDisabled">DISABLED</string>
+    <string name="btnButton">NOT PRESSED AND PRESSED</string>
+    <string name="tvSeekBar">50/100</string>
+    <string name="tvCardView">Prueba CardView</string>
+    <string name="meBotones">BOTONES</string>
+    <string name="meSelector">SELECTOR</string>
+    <string name="meCardView">CARDVIEW</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>
